@@ -1,6 +1,7 @@
 # HandImageDetectingAI
-This is first step to detecting hands for people who is incapable speech \n
+This is first step to detecting hands for people who is incapable speech <br/>
 **An AI of detecting of hand image&video**
+
 --------------------------------------------
 <Table of Contents>
 1. outline of project
