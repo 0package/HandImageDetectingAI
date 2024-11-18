@@ -118,7 +118,7 @@ DarkLabel
 
 - set class with mine
 
-![set class](image.png)
+![set class](https://github.com/user-attachments/assets/cdd09326-09a8-47d1-a36e-db9e23176394)
 
 set class
 
@@ -128,7 +128,7 @@ set class
 
 - Labeling - using DarkLabel(GT save as…)
     
-    ![Labeling saved as txt](%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-11-15_125857.png)
+    ![Labeling saved as txt](https://github.com/user-attachments/assets/b78d9603-9348-4ad0-a966-136c29e3f056)
     
     Labeling saved as txt
     
