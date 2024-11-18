@@ -13,8 +13,6 @@ Nvidia AI Specialist Certification.md file is introduction and decribe my projec
 6. review <br/>
 --------------------------------------------
 
-this is my notion link <br/>
-https://zircon-orchestra-b80.notion.site/Nvidia-AI-Specialist-Certification-13fee373218a80268899e9c6539d87dd?pvs=4
 
 # Nvidia AI Specialist Certification
 
@@ -294,3 +292,8 @@ F1_curve
 labels_correlogram
 
 </aside>
+
+
+
+this is my notion link <br/>
+https://zircon-orchestra-b80.notion.site/Nvidia-AI-Specialist-Certification-13fee373218a80268899e9c6539d87dd?pvs=4
