@@ -276,19 +276,19 @@ finger detect-using yolov5m model
 
 - Results
 
-![val_batch](val_batch1_pred.jpg)
+![val_batch](https://github.com/user-attachments/assets/3f686e6a-5717-495d-8708-9ef743a851b8)
 
 val_batch
 
-![results](results_(1).png)
+![results](https://github.com/user-attachments/assets/a2302949-1bd7-4135-8fb0-291b5947f0c5)
 
 results
 
-![F1_curve](F1_curve_(1).png)
+![F1_curve](https://github.com/user-attachments/assets/48d81c2f-40bc-4e9a-990f-26a91b260c70)
 
 F1_curve
 
-![labels_correlogram](de682bcb-97e7-4a61-853b-3da936a06daa.png)
+![labels_correlogram](https://github.com/user-attachments/assets/812cdab5-b9bf-46c7-a3f6-6325a574b53d)
 
 labels_correlogram
 
