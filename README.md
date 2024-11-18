@@ -231,7 +231,7 @@ def Create_npy(imagespath, imgsize, ext) :
 !python detect.py --weights /content/drive/MyDrive/yolov5/runs/train/exp/weights/best.pt --img 512 --conf 0.1 --source /content/drive/MyDrive/yolov5/Train/videos
 ```
 
-![KakaoTalk_20241115_215959497_01.jpg](ef80e559-2d59-468d-963a-d943c9ea2957.png)
+![KakaoTalk_20241115_215959497_01.jpg](https://github.com/user-attachments/assets/51f2c883-bb1a-47e9-a808-2c8628f4fd9e)
 
 # Proposal for enhancements to the project
 
@@ -253,7 +253,7 @@ Sign language is different in different country. They also need sign language tr
 
 Except thumb, other fingers can’t distinguish easily, because those don’t have features to distinct them. Relative size among them is only way to separate and perceive the difference. And it needs learning varied skin color. 
 
-![KakaoTalk_20241115_215959497_02.jpg](1c989b7e-73f5-4681-90cb-7cb857726443.png)
+![KakaoTalk_20241115_215959497_02.jpg](https://github.com/user-attachments/assets/dd74e787-85ac-4062-834d-43b039db8353)
 
 # Review
 
