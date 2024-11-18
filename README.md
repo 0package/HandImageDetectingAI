@@ -201,19 +201,19 @@ def Create_npy(imagespath, imgsize, ext) :
 
 - val_batchlabels_correlogram
 
-![val_batch2_labels.jpg](val_batch2_labels.jpg)
+![val_batch2_labels.jpg](https://github.com/user-attachments/assets/5ac6ed53-e0db-461b-838f-2f97c018f95e)
 
 ![val_batch2_labels.jpg](val_batch2_labels%201.jpg)
 
-![labels_correlogram.jpg](87747e32-3fb3-40bc-a612-3757db1d1c85.png)
+![labels_correlogram.jpg](https://github.com/user-attachments/assets/2963975f-4d47-4f55-aaa2-97c2a5a389dc)
 
 - results
     
-    ![F1_curve.png](F1_curve.png)
+    ![F1_curve.png](https://github.com/user-attachments/assets/3742b70c-bab9-4201-8b45-f748be153cfe)
     
 - Results
     
-    ![results.png](results.png)
+    ![results.png](https://github.com/user-attachments/assets/bfb052e5-befd-40e1-bc60-02536bc26d01)
     
 
 ### 7. Detecting Test
