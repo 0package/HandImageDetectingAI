@@ -112,7 +112,7 @@ format11:    # darknet yolo (predefined format]
 
 - Extract as Images
 
-![DarkLabel](%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2024-11-15_125541.png)
+![DarkLabel](https://github.com/user-attachments/assets/4370f8be-14bd-4463-89e4-fc1e095e3b67)
 
 DarkLabel
 
