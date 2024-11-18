@@ -205,9 +205,10 @@ def Create_npy(imagespath, imgsize, ext) :
 
 ![val_batch2_labels.jpg](val_batch2_labels%201.jpg)
 
+- labels correslogram
 ![labels_correlogram.jpg](https://github.com/user-attachments/assets/2963975f-4d47-4f55-aaa2-97c2a5a389dc)
 
-- results
+- F1-curve
     
     ![F1_curve.png](https://github.com/user-attachments/assets/3742b70c-bab9-4201-8b45-f748be153cfe)
     
