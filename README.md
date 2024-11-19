@@ -270,7 +270,7 @@ Small practicing project
 <aside>
 📎
 
-[finger detect-using yolov5m model](https://github.com/user-attachments/assets/8a37fc19-5816-4588-b18e-5695a6d3e8da)
+[finger detect-using yolov5m model](https://github.com/user-attachments/assets/3baa8a99-8357-4260-997e-6a45b4687dca)
 
 finger detect-using yolov5m model
 
