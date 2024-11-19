@@ -298,3 +298,6 @@ labels_correlogram
 
 this is my notion link <br/>
 https://zircon-orchestra-b80.notion.site/Nvidia-AI-Specialist-Certification-13fee373218a80268899e9c6539d87dd?pvs=4
+
+Origin Videos Google share link <br/>
+https://drive.google.com/drive/folders/1TOS8e_gi88wggH956C4Fh7aKCyQ4mkGV?usp=drive_link
