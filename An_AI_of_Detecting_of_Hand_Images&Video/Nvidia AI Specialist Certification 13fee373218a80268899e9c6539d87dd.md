@@ -182,6 +182,7 @@ def Create_npy(imagespath, imgsize, ext) :
     
 
 ### 6. Get Results
+[Detect_video](https://github.com/user-attachments/assets/f85a2684-98f5-4275-a405-39e86144b54c)
 
 - val_batchlabels_correlogram
 
