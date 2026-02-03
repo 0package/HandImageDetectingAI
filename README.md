@@ -2,7 +2,7 @@
 This is first step to detecting hands for people who is incapable speech <br/>
 **An AI of detecting of hand image&video**
 
-Nvidia AI Specialist Certification.md file is introduction and decribe my project.
+<!--Nvidia AI Specialist Certification.md file is introduction and decribe my project.-->
 --------------------------------------------
 📃Table of Contents <br/>
 1. outline of project <br/>
